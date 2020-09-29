@@ -1,29 +1,5 @@
-# hellow-world
+改变audio标签样式
 
-## Project setup
-```
-yarn install
-```
+具体效果
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image.png](https://upload-images.jianshu.io/upload_images/18847198-d6a12940742c7106.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

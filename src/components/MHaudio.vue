@@ -3,7 +3,7 @@
  * @Author: sjq
  * @Date: 2020-09-29 15:49:25
  * @LastEditors: sjq
- * @LastEditTime: 2020-09-29 17:22:41
+ * @LastEditTime: 2020-09-29 17:55:09
 -->
 <template>
   <div class="myaudio">
@@ -152,12 +152,5 @@ export default {
       float: left;
     }
   }
-}
-.icon-weibiaoti518:before {
-  content: '\e615';
-}
-
-.icon-zanting:before {
-  content: '\e619';
 }
 </style>
